@@ -1,4 +1,4 @@
-# UK E-Commerce Sales Analysis using SQL Server
+UK E-Commerce Sales Analysis using SQL Server
 
  Overview
 This project explores a real-world UK based online retail dataset 
@@ -35,6 +35,8 @@ UCI Online Retail Dataset — available on Kaggle
 https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
  Author
+
 Shusitha Mucherla
+
 MS in Information Technology Management
 GitHub: github.com/shusithamucherla-analytics
